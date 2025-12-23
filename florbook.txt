@@ -1,0 +1,1157 @@
+
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-us"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en-us"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en-us"><![endif]-->
+<!--[if gt IE 8]> <html class="no-js ie9" lang="en-us"><![endif]-->
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8" />
+		<title>Sale of seeds for the garden, aromatic herbs and flowers - Florbook</title>
+					<meta name="description" content="Discover our prestigious digital catalog of seeds, vegetables, herbs and flowers, as well as guides on sowing, growing recipes and much more." />
+						<meta name="generator" content="PrestaShop" />
+		<meta name="robots" content="index,follow" />
+		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1751304581" />
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1751304581" />
+														<link rel="stylesheet" href="/themes/default-bootstrap/css/global.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/highdpi.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/responsive-tables.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/uniform.default.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/product_list.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockbestsellers/blockbestsellers.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcart/blockcart.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/js/jquery/plugins/bxslider/jquery.bxslider.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/modules/blockfacebook/css/blockfacebook.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockmyaccountfooter/blockmyaccount.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocknewproducts/blocknewproducts.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/js/jquery/plugins/autocomplete/jquery.autocomplete.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockspecials/blockspecials.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktags/blocktags.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/homeslider/homeslider.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/homefeatured/homefeatured.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/modules/themeconfigurator/css/hooks.css" type="text/css" media="all" />
+																<link rel="stylesheet" href="/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css" type="text/css" media="all" />
+														<script type="text/javascript">
+var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nClose = 'Close';
+var FancyboxI18nNext = 'Next';
+var FancyboxI18nPrev = 'Previous';
+var ajax_allowed = true;
+var ajaxsearch = true;
+var baseDir = 'https://florbook.com/';
+var baseUri = 'https://florbook.com/';
+var blocksearch_type = 'top';
+var contentOnly = false;
+var currency = {"id":1,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","prefix":"","suffix":" \u20ac","id_shop_list":null,"force_id":false};
+var currencyBlank = 1;
+var currencyFormat = 2;
+var currencyRate = 1;
+var currencySign = '€';
+var customizationIdMessage = 'Customization #';
+var delete_txt = 'Delete';
+var displayList = false;
+var freeProductTranslation = 'Free!';
+var freeShippingTranslation = 'Free shipping!';
+var generated_date = 1766494330;
+var hasDeliveryAddress = false;
+var highDPI = false;
+var homeslider_loop = 1;
+var homeslider_pause = 3000;
+var homeslider_speed = 500;
+var homeslider_width = 779;
+var id_lang = 2;
+var img_dir = 'https://florbook.com/themes/default-bootstrap/img/';
+var instantsearch = false;
+var isGuest = 0;
+var isLogged = 0;
+var isMobile = false;
+var page_name = 'index';
+var placeholder_blocknewsletter = 'Enter your e-mail';
+var priceDisplayMethod = 0;
+var priceDisplayPrecision = 2;
+var quickView = true;
+var removingLinkText = 'remove this product from my cart';
+var roundMode = 2;
+var search_url = 'https://florbook.com/en/ricerca';
+var static_token = '2142aa1e06bb8cae9ff06536e917cc4b';
+var toBeDetermined = 'To be determined';
+var token = '867ef3e1d8fb6fa09596fb5192cb9982';
+var usingSecureMode = true;
+</script>
+
+						<script type="text/javascript" src="/js/jquery/jquery-1.11.0.min.js"></script>
+						<script type="text/javascript" src="/js/jquery/jquery-migrate-1.2.1.min.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/jquery.easing.js"></script>
+						<script type="text/javascript" src="/js/tools.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/global.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/10-bootstrap.min.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/products-comparison.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/jquery.scrollTo.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/jquery.serialScroll.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/bxslider/jquery.bxslider.js"></script>
+						<script type="text/javascript" src="/modules/blockfacebook/blockfacebook.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js"></script>
+						<script type="text/javascript" src="/js/jquery/plugins/autocomplete/jquery.autocomplete.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/tools/treeManagement.js"></script>
+						<script type="text/javascript" src="/modules/ganalytics/views/js/GoogleAnalyticActionLib.js"></script>
+						<script type="text/javascript" src="/modules/responsiveiframe/views/js/flexy.js"></script>
+						<script type="text/javascript" src="/themes/default-bootstrap/js/index.js"></script>
+							    
+    
+    
+    
+<!-- emarketing start -->
+
+
+
+<!-- emarketing end -->
+			<script type="text/javascript">
+				(window.gaDevIds=window.gaDevIds||[]).push('d6YPbH');
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+				ga('create', 'UA-89033059-2', 'auto');
+				ga('require', 'ec');</script>
+
+<script type="text/javascript" > 
+$('iframe').flexy({
+    addcss: true,
+    classname: 'flexy-wrapper',
+    widescreen: 1
+
+});
+</script> 
+	
+	
+
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,600&amp;subset=latin,latin-ext" type="text/css" media="all" />
+		<!--[if IE 8]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body id="index" class="index show-left-column hide-right-column lang_en">
+					<div id="page">
+			<div class="header-container">
+				<header id="header">
+																<div class="banner">
+							<div class="container">
+								<div class="row">
+									<a href="https://florbook.com/" title="">
+	<img class="img-responsive" src="https://florbook.com/modules/blockbanner/img/b9ee669adf857cf5174ed137c3073a56.png" alt="" title="" width="1170" height="65" />
+</a>
+
+								</div>
+							</div>
+						</div>
+																					<div class="nav">
+							<div class="container">
+								<div class="row">
+									<nav><!-- Block user information module NAV  -->
+<div class="header_user_info">
+			<a class="login" href="https://florbook.com/en/account" rel="nofollow" title="Log in to your customer account">
+			Sign in
+		</a>
+	</div>
+<!-- /Block usmodule NAV -->
+<!-- Block currencies module -->
+	<div id="currencies-block-top">
+		<form id="setCurrency" action="/en/" method="post">
+			<div class="current">
+				<input type="hidden" name="id_currency" id="id_currency" value=""/>
+				<input type="hidden" name="SubmitCurrency" value="" />
+				<span class="cur-label">Currency :</span>
+																		<strong>EUR</strong>							</div>
+			<ul id="first-currencies" class="currencies_ul toogle_content">
+																									<li >
+						<a href="javascript:setCurrency(2);" rel="nofollow" title="Dollar (USD)">
+							Dollar (USD)
+						</a>
+					</li>
+																									<li class="selected">
+						<a href="javascript:setCurrency(1);" rel="nofollow" title="Euro (EUR)">
+							Euro (EUR)
+						</a>
+					</li>
+							</ul>
+		</form>
+	</div>
+<!-- /Block currencies module -->
+<!-- Block languages module -->
+	<div id="languages-block-top" class="languages-block">
+														<div class="current">
+					<span>English</span>
+				</div>
+							<ul id="first-languages" class="languages-block_ul toogle_content">
+							<li >
+																				<a href="https://florbook.com/it/" title="Italiano (Italian)" rel="alternate" hreflang="it">
+															<span>Italiano</span>
+									</a>
+								</li>
+							<li class="selected">
+										<span>English</span>
+								</li>
+					</ul>
+	</div>
+<!-- /Block languages module -->
+<div id="contact-link" >
+	<a href="https://florbook.com/en/contattaci" title="Contact us">Contact us</a>
+</div>
+</nav>
+								</div>
+							</div>
+						</div>
+										<div>
+						<div class="container">
+							<div class="row">
+								<div id="header_logo">
+									<a href="https://florbook.com/" title="Florbook">
+										<img class="logo img-responsive" src="https://florbook.com/img/florbook-logo-1622469464.jpg" alt="Florbook" width="350" height="99"/>
+									</a>
+								</div>
+								<!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 clearfix">
+	<form id="searchbox" method="get" action="//florbook.com/en/ricerca" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Search" value="" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span>Search</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP -->
+<!-- MODULE Block cart -->
+<div class="col-sm-4 clearfix">
+	<div class="shopping_cart">
+		<a href="https://florbook.com/en/ordine" title="View my shopping cart" rel="nofollow">
+			<b>Cart</b>
+			<span class="ajax_cart_quantity unvisible">0</span>
+			<span class="ajax_cart_product_txt unvisible">Product</span>
+			<span class="ajax_cart_product_txt_s unvisible">Products</span>
+			<span class="ajax_cart_total unvisible">
+							</span>
+			<span class="ajax_cart_no_product">(empty)</span>
+					</a>
+					<div class="cart_block block exclusive">
+				<div class="block_content">
+					<!-- block list of products -->
+					<div class="cart_block_list">
+												<p class="cart_block_no_products">
+							No products
+						</p>
+																		<div class="cart-prices">
+							<div class="cart-prices-line first-line">
+								<span class="price cart_block_shipping_cost ajax_cart_shipping_cost unvisible">
+																			 To be determined																	</span>
+								<span class="unvisible">
+									Shipping
+								</span>
+							</div>
+																					<div class="cart-prices-line last-line">
+								<span class="price cart_block_total ajax_block_cart_total">0,00 €</span>
+								<span>Total</span>
+							</div>
+													</div>
+						<p class="cart-buttons">
+							<a id="button_order_cart" class="btn btn-default button button-small" href="https://florbook.com/en/ordine" title="Check out" rel="nofollow">
+								<span>
+									Check out<i class="icon-chevron-right right"></i>
+								</span>
+							</a>
+						</p>
+					</div>
+				</div>
+			</div><!-- .cart_block -->
+			</div>
+</div>
+
+	<div id="layer_cart">
+		<div class="clearfix">
+			<div class="layer_cart_product col-xs-12 col-md-6">
+				<span class="cross" title="Close window"></span>
+				<span class="title">
+					<i class="icon-check"></i>Product successfully added to your shopping cart
+				</span>
+				<div class="product-image-container layer_cart_img">
+				</div>
+				<div class="layer_cart_product_info">
+					<span id="layer_cart_product_title" class="product-name"></span>
+					<span id="layer_cart_product_attributes"></span>
+					<div>
+						<strong class="dark">Quantity</strong>
+						<span id="layer_cart_product_quantity"></span>
+					</div>
+					<div>
+						<strong class="dark">Total</strong>
+						<span id="layer_cart_product_price"></span>
+					</div>
+				</div>
+			</div>
+			<div class="layer_cart_cart col-xs-12 col-md-6">
+				<span class="title">
+					<!-- Plural Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt_s  unvisible">
+						There are <span class="ajax_cart_quantity">0</span> items in your cart.
+					</span>
+					<!-- Singular Case [both cases are needed because page may be updated in Javascript] -->
+					<span class="ajax_cart_product_txt ">
+						There is 1 item in your cart.
+					</span>
+				</span>
+				<div class="layer_cart_row">
+					<strong class="dark">
+						Total products
+											</strong>
+					<span class="ajax_block_products_total">
+											</span>
+				</div>
+
+								<div class="layer_cart_row">
+					<strong class="dark unvisible">
+						Total shipping&nbsp;					</strong>
+					<span class="ajax_cart_shipping_cost unvisible">
+													 To be determined											</span>
+				</div>
+								<div class="layer_cart_row">
+					<strong class="dark">
+						Total
+											</strong>
+					<span class="ajax_block_cart_total">
+											</span>
+				</div>
+				<div class="button-container">
+					<span class="continue btn btn-default button exclusive-medium" title="Continue shopping">
+						<span>
+							<i class="icon-chevron-left left"></i>Continue shopping
+						</span>
+					</span>
+					<a class="btn btn-default button button-medium"	href="https://florbook.com/en/ordine" title="Proceed to checkout" rel="nofollow">
+						<span>
+							Proceed to checkout<i class="icon-chevron-right right"></i>
+						</span>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="crossseling"></div>
+	</div> <!-- #layer_cart -->
+	<div class="layer_cart_overlay"></div>
+
+<!-- /MODULE Block cart -->
+	<!-- Menu -->
+	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+		<div class="cat-title">Menu</div>
+		<ul class="sf-menu clearfix menu-content">
+			<li><a href="https://florbook.com/" title="Home">Home</a></li>
+<li><a href="https://florbook.com/en/content/1-consegna" title="Consegna">Consegna</a></li>
+<li><a href="https://florbook.com/en/content/4-who-we-are" title="who we are">who we are</a></li>
+<li><a href="https://florbook.com/en/12-semi-ortaggi" title="Semi ortaggi">Semi ortaggi</a><ul><li><a href="https://florbook.com/en/13-summer-vegetables-seeds" title="Summer vegetables seeds">Summer vegetables seeds</a><ul><li><a href="https://florbook.com/en/14-garlic-seeds" title="Garlic seeds">Garlic seeds</a></li><li><a href="https://florbook.com/en/20-watermelon-seeds" title="Watermelon seeds">Watermelon seeds</a></li><li><a href="https://florbook.com/en/33-asparagus-seeds" title="Asparagus seeds">Asparagus seeds</a></li><li><a href="https://florbook.com/en/22-chili-seeds" title="Chili seeds">Chili seeds</a></li><li><a href="https://florbook.com/en/34-beet-seeds" title="Beet seeds">Beet seeds</a></li><li><a href="https://florbook.com/en/35-basil-seeds" title="Basil seeds">Basil seeds</a></li><li><a href="https://florbook.com/en/36-chard-seeds" title="Chard seeds">Chard seeds</a></li><li><a href="https://florbook.com/en/37-cabbage-seeds" title="Cabbage seeds">Cabbage seeds</a></li><li><a href="https://florbook.com/en/38-onion-seeds" title="Onion seeds">Onion seeds</a></li><li><a href="https://florbook.com/en/39-carrot-seeds" title="Carrot seeds">Carrot seeds</a></li><li><a href="https://florbook.com/en/40-artichoke-seeds" title="artichoke seeds">artichoke seeds</a></li><li><a href="https://florbook.com/en/41-cucumber-seeds" title="Cucumber seeds">Cucumber seeds</a></li><li><a href="https://florbook.com/en/46-strawberry-seeds" title="Strawberry seeds">Strawberry seeds</a></li><li><a href="https://florbook.com/en/54-bean-and-green-bean-seeds" title="Bean and green bean seeds">Bean and green bean seeds</a></li><li><a href="https://florbook.com/en/48-broad-bean-seeds" title="Broad bean seeds">Broad bean seeds</a></li><li><a href="https://florbook.com/en/43-lettuce-seeds" title="Lettuce seeds">Lettuce seeds</a></li><li><a href="https://florbook.com/en/49-corn-seed" title="Corn seed">Corn seed</a></li><li><a href="https://florbook.com/en/50-eggplant-seeds" title="Eggplant seeds">Eggplant seeds</a></li><li><a href="https://florbook.com/en/51-melon-seeds" title="Melon seeds">Melon seeds</a></li><li><a href="https://florbook.com/en/64-okra-seeds" title="Okra seeds">Okra seeds</a></li><li><a href="https://florbook.com/en/23-tomato-seeds" title="Tomato seeds">Tomato seeds</a></li><li><a href="https://florbook.com/en/55-pea-seeds" title="Pea seeds">Pea seeds</a></li><li><a href="https://florbook.com/en/62-leek-seeds" title="Leek seeds">Leek seeds</a></li><li><a href="https://florbook.com/en/45-pepper-seeds" title="Pepper seeds">Pepper seeds</a></li><li><a href="https://florbook.com/en/63-radish-seeds" title="Radish seeds">Radish seeds</a></li><li><a href="https://florbook.com/en/65-arugula-seeds" title="Arugula seeds">Arugula seeds</a></li><li><a href="https://florbook.com/en/71-shallot-seeds" title="Shallot seeds">Shallot seeds</a></li><li><a href="https://florbook.com/en/72-celery-seeds" title="Celery seeds">Celery seeds</a></li><li><a href="https://florbook.com/en/73-spinach-seeds" title="Spinach seeds">Spinach seeds</a></li><li><a href="https://florbook.com/en/74-valerian-seeds" title="Valerian seeds">Valerian seeds</a></li><li><a href="https://florbook.com/en/75-pumpkin-seeds" title="Pumpkin seeds">Pumpkin seeds</a></li><li><a href="https://florbook.com/en/58-courgette-seeds" title="Courgette seeds">Courgette seeds</a></li></ul></li><li><a href="https://florbook.com/en/15-winter-vegetables-seeds" title="Winter vegetables seeds">Winter vegetables seeds</a><ul><li><a href="https://florbook.com/en/16-broccoli-seeds" title="broccoli seeds ">broccoli seeds </a></li><li><a href="https://florbook.com/en/17-cauliflower-seeds" title="cauliflower seeds">cauliflower seeds</a></li><li><a href="https://florbook.com/en/18-semi-di-cavolo" title="semi di cavolo">semi di cavolo</a></li><li><a href="https://florbook.com/en/19-fennel-seeds" title="fennel seeds">fennel seeds</a></li><li><a href="https://florbook.com/en/21-semi-di-lattuga" title="Semi di lattuga">Semi di lattuga</a></li><li><a href="https://florbook.com/en/25-chicory-seeds" title="chicory seeds">chicory seeds</a></li><li><a href="https://florbook.com/en/26-radicchio-seeds" title="Radicchio seeds">Radicchio seeds</a></li><li><a href="https://florbook.com/en/30-rocket-seeds" title="Rocket seeds">Rocket seeds</a></li><li><a href="https://florbook.com/en/31-chard-and-beet-seeds" title="Chard and Beet Seeds">Chard and Beet Seeds</a></li><li><a href="https://florbook.com/en/32-escarole-seeds" title="Escarole Seeds">Escarole Seeds</a></li><li><a href="https://florbook.com/en/44-onion-seeds" title="Onion Seeds">Onion Seeds</a></li><li><a href="https://florbook.com/en/52-basil-seeds" title="Basil Seeds">Basil Seeds</a></li><li><a href="https://florbook.com/en/53-chard-seeds" title="Chard Seeds ">Chard Seeds </a></li><li><a href="https://florbook.com/en/56-artichoke-seeds" title="Artichoke Seeds">Artichoke Seeds</a></li><li><a href="https://florbook.com/en/57-carrot-seeds" title="Carrot Seeds">Carrot Seeds</a></li><li><a href="https://florbook.com/en/59-cucumber-seeds" title="Cucumber Seeds">Cucumber Seeds</a></li><li><a href="https://florbook.com/en/60-bean-seeds" title="Bean Seeds ">Bean Seeds </a></li><li><a href="https://florbook.com/en/61-endive-seeds" title="Endive Seeds">Endive Seeds</a></li><li><a href="https://florbook.com/en/66-leek-seeds" title="Leek Seeds ">Leek Seeds </a></li><li><a href="https://florbook.com/en/67-parsley-seeds" title="Parsley Seeds ">Parsley Seeds </a></li><li><a href="https://florbook.com/en/68-celery-seeds" title="Celery Seeds">Celery Seeds</a></li><li><a href="https://florbook.com/en/69-spinach-seeds" title="Spinach Seeds">Spinach Seeds</a></li><li><a href="https://florbook.com/en/70-valerian-seeds" title="Valerian Seeds">Valerian Seeds</a></li></ul></li></ul></li><li><a href="https://florbook.com/en/contattaci" title="Contact">Contact</a></li>
+
+					</ul>
+	</div>
+	<!--/ Menu -->
+							</div>
+						</div>
+					</div>
+				</header>
+			</div>
+			<div class="columns-container">
+				<div id="columns" class="container">
+										<div id="slider_row" class="row">
+																			<div id="top_column" class="center_column col-xs-12 col-sm-12"><!-- Module HomeSlider -->
+    		<div id="homepage-slider">
+						<ul id="homeslider" style="max-height:448px;">
+															<li class="homeslider-container">
+							<a href="#" title="sample-1">
+								<img src="https://florbook.com/modules/homeslider/images/312ca8901080e9d470aa225d11af50adaaedaba9_sample-1.jpg" width="779" height="448" alt="sample-1" />
+							</a>
+															<div class="homeslider-description"><h2 style="text-align:left;"><span style="background-color:#4a4a4a;">florbook</span></h2>
+<p style="text-align:left;"><span style="background-color:#4a4a4a;">Are you a fond of vegetable garden with a strong passion for vegetables, herbs, spices ? We have everything for you ! From seeds for home-made cultivation and packaged products ready to be shipped.</span></p>
+<p style="text-align:left;"><button class="btn btn-default" type="button">Shop now !</button></p></div>
+													</li>
+																				<li class="homeslider-container">
+							<a href="#" title="sample-2">
+								<img src="https://florbook.com/modules/homeslider/images/c0d93ddc160ab366a8384cf15f1264bbf1e64dd3_sample-2.jpg" width="779" height="448" alt="sample-2" />
+							</a>
+															<div class="homeslider-description"><h2>Prestige seed</h2>
+<p>Explore one of the best seed banks. Browse the catalog and look for perfect vegetables. If you are a DIY lover, you will have no difficulty in growing it in the pot or in your garden ! Find out now</p>
+<p><button class="btn btn-default" type="button">Shop now !</button></p></div>
+													</li>
+																				<li class="homeslider-container">
+							<a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v16_homeslider&amp;utm_campaign=back-office-IT&amp;utm_content=download" title="sample-3">
+								<img src="https://florbook.com/modules/homeslider/images/03cc85735d57706dd44e9730c1527a770df6204f_sample-3.jpg" width="779" height="448" alt="sample-3" />
+							</a>
+															<div class="homeslider-description"><h2><span style="background-color:#d0121a;">Dust</span><br /><span style="background-color:#d0121a;">and spices</span></h2>
+<p><span style="background-color:#d0121a;">Dust and spices expertly cultivated and processed with natural techniques. In our products you will discover the unique flavor</span></p>
+<p><button class="btn btn-default" type="button">Shop now !</button></p></div>
+													</li>
+												</ul>
+		</div>
+	<!-- /Module HomeSlider -->
+<div id="htmlcontent_top">
+	<ul class="htmlcontent-home clearfix row">
+									<li class="htmlcontent-item-1 col-xs-4">
+														<a href="https://florbook.com/en/15-winter-vegetables-seeds" class="item-link" title="">
+																		<img src="https://florbook.com/modules/themeconfigurator/img/faab23be8e09f51db15f0682524dd14e3488c708_semi-ortaggi-invernali-inglese.jpg" class="item-img " title="" alt="" width="381" height="219"/>
+																													</a>
+									</li>
+									<li class="htmlcontent-item-2 col-xs-4">
+														<a href="https://florbook.com/en/13-summer-vegetables-seeds" class="item-link" title="">
+																		<img src="https://florbook.com/modules/themeconfigurator/img/f9676af433858dbb4dc3baec937b4dc382dfe1f1_ortaggi-estivi-inglese.jpg" class="item-img " title="" alt="" width="381" height="219"/>
+																													</a>
+									</li>
+			</ul>
+</div>
+</div>
+											</div>
+					<div class="row">
+												<div id="left_column" class="column col-xs-12 col-sm-3"><!-- Block categories module -->
+<div id="categories_block_left" class="block">
+	<h2 class="title_block">
+					Categories
+			</h2>
+	<div class="block_content">
+		<ul class="tree dhtml">
+												
+<li >
+	<a 
+	href="https://florbook.com/en/12-semi-ortaggi" title="">
+		Semi ortaggi
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://florbook.com/en/13-summer-vegetables-seeds" title="">
+		Summer vegetables seeds
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://florbook.com/en/14-garlic-seeds" title="In this section you will find  garlic seeds  ready to be planted and to sprout in beautiful and healty plants. You can purchase it with just one click!">
+		Garlic seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/20-watermelon-seeds" title="In this section you will find many different watermelon seeds, ready to be planted, so that you can grow your own watermelon plants. Buy them now, it&#039;s quick and easy!">
+		Watermelon seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/33-asparagus-seeds" title="">
+		Asparagus seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/22-chili-seeds" title="">
+		Chili seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/34-beet-seeds" title="">
+		Beet seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/35-basil-seeds" title="">
+		Basil seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/36-chard-seeds" title="">
+		Chard seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/37-cabbage-seeds" title="">
+		Cabbage seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/38-onion-seeds" title="">
+		Onion seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/39-carrot-seeds" title="">
+		Carrot seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/40-artichoke-seeds" title="">
+		artichoke seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/41-cucumber-seeds" title="In this section you will find cucumber seeds ready to be planted and to sprout in fantastic so that you can grow fantastic cucumber plants. To buy them just one click!">
+		Cucumber seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/46-strawberry-seeds" title="In this category you will find seeds of different varieties of strawberries ready to be cultivated. Try to sow them and taste your own strawberries at Km 0. Discover different colors and shapes. Buy them with a few clicks. They will be delivered directly to your home.">
+		Strawberry seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/54-bean-and-green-bean-seeds" title="In this category you will find seeds of different varieties of bean and green bean ready to be cultivated. Try to sow them and taste your own bean and green bean at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Bean and green bean seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/48-broad-bean-seeds" title="In this category you will find seeds of different varieties of Broad bean ready to be cultivated. Try to sow them and taste your own broad bean at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Broad bean seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/43-lettuce-seeds" title="In this section you will find lettuce seeds, ready to be planted  and to sprout into fantastic lettuce plants. Buy them now, it&#039;s quick and easy!">
+		Lettuce seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/49-corn-seed" title="In this category you will find seeds of different varieties of corn ready to be cultivated. Try to sow them and taste your own corn at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Corn seed
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/50-eggplant-seeds" title="In this category you will find seeds of different varieties of eggplant ready to be cultivated. Try to sow them and taste your own eggplant at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Eggplant seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/51-melon-seeds" title="In this category you will find seeds of different varieties of melon ready to be cultivated. Try to sow them and taste your own melon at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Melon seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/64-okra-seeds" title="In this category you will find seeds of okra ready to be cultivated. Try to sow them and taste your own okra at Km 0. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Okra seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/23-tomato-seeds" title="In this section, you will find  tomato seeds , ready to be planted and to sprout in beautiful and healthy plants. You can purchase them with just one click!">
+		Tomato seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/55-pea-seeds" title="In this category you will find seeds of different varieties of peas ready to be cultivated. Try to sow them and taste your own peas at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Pea seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/62-leek-seeds" title="In this category you will find seeds of different varieties of leek ready to be cultivated. Try to sow them and taste your own leek at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Leek seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/45-pepper-seeds" title="In this section you will find pepper seeds, ready to be planted and to sprout into fantastic pepper plants. Buy them now, it&#039;s quick and easy!">
+		Pepper seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/63-radish-seeds" title="In this category you will find seeds of radish ready to be cultivated. Try to sow them and taste your own radish at Km 0.  Buy them with a few clicks.   They will be delivered directly to your home.">
+		Radish seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/65-arugula-seeds" title="In this category you will find seeds of different varieties of arugula ready to be cultivated. Try to sow them and taste your own arugula at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Arugula seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/71-shallot-seeds" title="In this category you will find seeds of different varieties of shallot ready to be cultivated. Try to sow them and taste your own shallot at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Shallot seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/72-celery-seeds" title="In this category you will find seeds of different varieties of celery ready to be cultivated. Try to sow them and taste your own celery at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Celery seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/73-spinach-seeds" title="In this category you will find seeds of spinach ready to be cultivated. Try to sow them and taste your own spinach at Km 0. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Spinach seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/74-valerian-seeds" title="In this category you will find seeds of valerian ready to be cultivated. Try to sow them and taste your own valerian at Km 0. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Valerian seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/75-pumpkin-seeds" title="In this category you will find different varieties of Pumpkin seeds ready to be cultivated. Try to sow them and taste your own Pumpkin at Km 0. Discover different colors and shapes. Buy them with a few clicks.   They will be delivered directly to your home.">
+		Pumpkin seeds
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://florbook.com/en/58-courgette-seeds" title="In this section you will find many different courgette seeds, ready to be planted, so that you can grow fantastic courgette plants. Buy them now, it&#039;s quick and easy!">
+		Courgette seeds
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://florbook.com/en/15-winter-vegetables-seeds" title="">
+		Winter vegetables seeds
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="https://florbook.com/en/16-broccoli-seeds" title="In this section you will find  broccoli seeds  ready to be planted and to sprout in beautiful and healthy plants. What are you waiting for? Get it with just one click!">
+		broccoli seeds 
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/17-cauliflower-seeds" title="In this section you will find  cauliflower seeds , ready to be planted and to sprout in beautiful and productive plants. Get it in just one click!">
+		cauliflower seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/18-semi-di-cavolo" title="">
+		semi di cavolo
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/19-fennel-seeds" title="">
+		fennel seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/21-semi-di-lattuga" title="">
+		Semi di lattuga
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/25-chicory-seeds" title="In this section you will find  chicory seeds  ready to be planted and to sprout in beautiful and healthy plants. What are you waiting for? Get it with just one click!">
+		chicory seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/26-radicchio-seeds" title="In this section you will find Radicchio seeds ready to be planted and to sprout in beautiful and healthy plants. What are you waiting for? Get it with just one click!">
+		Radicchio seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/30-rocket-seeds" title="In this section you will find rocket seeds ready to be planted and to sprout in beautiful and healthy plants. What are you waiting for? Get it with just one click!">
+		Rocket seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/31-chard-and-beet-seeds" title="In this section you will find Chard and Beet seeds ready to be planted and to sprout in beautiful and healthy plants. What are you waiting for? Get it with just one click!">
+		Chard and Beet Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/32-escarole-seeds" title="In this section you will find  escarole seeds  ready to be planted and to sprout in beautiful and healthy plants. What are you waiting for? Get it with just one click!">
+		Escarole Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/44-onion-seeds" title="Are you looking for onion seeds ready to be grown?  You&#039;re in luck! Add the varieties you want to your shopping bag and buy them in just a few clicks. The products will be delivered directly to your mailbox by the postman, even if you are not at home.">
+		Onion Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/52-basil-seeds" title="Are you looking for basil seeds ready to be grown?  You&#039;re in luck! Add the varieties you want to your shopping bag and buy them in just a few clicks. The products will be delivered directly to your mailbox by the postman, even if you are not at home.">
+		Basil Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/53-chard-seeds" title="Are you looking for chard seeds ready to be grown?  You&#039;re in luck! Add the varieties you want to your shopping bag and buy them in just a few clicks. The products will be delivered directly to your mailbox by the postman, even if you are not at home.">
+		Chard Seeds 
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/56-artichoke-seeds" title="Are you looking for artichoke seeds ready to be grown?  You&#039;re in luck! Add the varieties you want to your shopping bag and buy them in just a few clicks. The products will be delivered directly to your mailbox by the postman, even if you are not at home.">
+		Artichoke Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/57-carrot-seeds" title="Are you looking for carrot seeds ready to be grown? You&#039;re in luck! Add the varieties you want to your shopping bag and buy them in just a few clicks. The products will be delivered directly to your mailbox by the postman, even if you are not at home.">
+		Carrot Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/59-cucumber-seeds" title="Are you looking for cucumber seeds ready to be grown? You&#039;re in luck! Add the varieties you want to your shopping bag and buy them in just a few clicks. The products will be delivered directly to your mailbox by the postman, even if you are not at home.">
+		Cucumber Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/60-bean-seeds" title="Are you looking for beans seeds ready to be grown? You&#039;re in luck! Add the varieties you want to your shopping bag and buy them in just a few clicks. The products will be delivered directly to your mailbox by the postman, even if you are not at home.">
+		Bean Seeds 
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/61-endive-seeds" title="Are you looking for endive seeds ready to be grown? You&#039;ve come to the right place! Add the varieties you like to your shopping cart and proceed to purchase in just a few clicks. The products will be delivered directly to your mailbox by the postman even if you are not at home.">
+		Endive Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/66-leek-seeds" title="Are you looking for leek seeds ready to be grown? You&#039;re in luck! Add the varieties you like to your shopping bag and buy in just a few clicks. The products will be delivered directly to your mailbox by the postman even if you are not at home.">
+		Leek Seeds 
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/67-parsley-seeds" title="Are you looking for parsley seeds ready to be grown?  You&#039;re in luck! Add the varieties you like to your shopping bag and buy in just a few clicks. The products will be delivered directly to your mailbox by the postman even if you are not at home.">
+		Parsley Seeds 
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/68-celery-seeds" title="Are you looking for celery seeds ready to be grown?  You&#039;re in luck! Add the varieties you like to your shopping bag and buy in just a few clicks. The products will be delivered directly to your mailbox by the postman even if you are not at home.">
+		Celery Seeds
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/69-spinach-seeds" title="Are you looking for spinach seeds ready to be grown?  You&#039;re in luck! Add the varieties you like to your shopping bag and buy in just a few clicks. The products will be delivered directly to your mailbox by the postman even if you are not at home.">
+		Spinach Seeds
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://florbook.com/en/70-valerian-seeds" title="Are you looking for Valerian seeds ready to be grown?  You&#039;re in luck! Add the varieties you like to your shopping bag and buy in just a few clicks. The products will be delivered directly to your mailbox by the postman even if you are not at home.">
+		Valerian Seeds
+	</a>
+	</li>
+
+									</ul>
+	</li>
+
+									</ul>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/27-peperoncino-secco" title="">
+		Peperoncino secco
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/28-peperoncino-in-polvere" title="">
+		Peperoncino in polvere
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/29-semi-piante-aromatiche" title="">
+		Semi piante aromatiche
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="https://florbook.com/en/76-prati-e-tappeti-erbosi" title="">
+		Prati e tappeti erbosi
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="https://florbook.com/en/77-semi-fiori-ornamentali" title="">
+		Semi fiori ornamentali
+	</a>
+	</li>
+
+									</ul>
+	</div>
+</div>
+<!-- /Block categories module -->
+
+	<!-- Block CMS module -->
+			<section id="informations_block_left_1" class="block informations_block_left">
+			<p class="title_block">
+				<a href="https://florbook.com/en/content/category/1-home">
+					Informazioni				</a>
+			</p>
+			<div class="block_content list-block">
+				<ul>
+																							<li>
+								<a href="https://florbook.com/en/content/1-consegna" title="Consegna">
+									Consegna
+								</a>
+							</li>
+																								<li>
+								<a href="https://florbook.com/en/content/2-note-legali" title="Note legali">
+									Note legali
+								</a>
+							</li>
+																								<li>
+								<a href="https://florbook.com/en/content/3-termini-e-condizioni-di-uso" title="Termini e condizioni d&#039;uso">
+									Termini e condizioni d&#039;uso
+								</a>
+							</li>
+																								<li>
+								<a href="https://florbook.com/en/content/4-who-we-are" title="who we are">
+									who we are
+								</a>
+							</li>
+																								<li>
+								<a href="https://florbook.com/en/content/5-pagamento-sicuro" title="Pagamento sicuro">
+									Pagamento sicuro
+								</a>
+							</li>
+																						<li>
+							<a href="https://florbook.com/en/negozi" title="Our stores">
+								Our stores
+							</a>
+						</li>
+									</ul>
+			</div>
+		</section>
+			<section id="informations_block_left_2" class="block informations_block_left">
+			<p class="title_block">
+				<a href="https://florbook.com/en/content/category/1-home">
+					Useful info				</a>
+			</p>
+			<div class="block_content list-block">
+				<ul>
+																		<li class="bullet">
+								<a href="https://florbook.com/en/content/category/2-encyclopedia-vegetables" title="Encyclopedia vegetables">
+									Encyclopedia vegetables
+								</a>
+							</li>
+																								<li class="bullet">
+								<a href="https://florbook.com/en/content/category/3-erbe-aromatiche" title="Erbe aromatiche">
+									Erbe aromatiche
+								</a>
+							</li>
+																								<li class="bullet">
+								<a href="https://florbook.com/en/content/category/4-enciclopedia-dei-pomodori" title="Enciclopedia dei pomodori">
+									Enciclopedia dei pomodori
+								</a>
+							</li>
+																									</ul>
+			</div>
+		</section>
+		<!-- /Block CMS module -->
+</div>
+																		<div id="center_column" class="center_column col-xs-12 col-sm-9">
+		<div class="clearfix"><hr />
+<p>Welcome to Florbook, <strong>the world of botany just a click away</strong>!</p>
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Florbook is the perfect platform for gardening and botany enthusiasts who want access to a wide range of vegetable seeds, herbs, and flowers, as well as a virtual library on cultivation, sowing, and the properties of every plant.</p>
+<p>Our platform has been designed to provide an easy and intuitive shopping experience, even for newcomers to the industry. In fact, we have designed a simple but comprehensive graphical interface, where users can find all the information they need to choose the right products for their needs.</p>
+<p>Florbook is much more than just an online store for seeds and floriculture products: it is a real community of enthusiasts who share their experience and knowledge. Our blog, in fact, is a real treasure trove of advice, curiosities, and insights into botany, which allow our users to learn new knowledge and enrich their knowledge of the plant world.</p>
+<p>Thanks to our customer service, users can contact us at any time for support in choosing products or to resolve any issues during the purchase process.</p>
+<p>Furthermore, our online store offers a wide range of high-quality products, selected from the best suppliers in the industry. We are proud to guarantee the freshness of our seeds and products, which are always ready for shipping in a short time.</p>
+<p>Finally, Florbook offers its users a secure and reliable payment system. Thanks to the use of the online payment system Paypal, our users can make their purchases with the utmost peace of mind and security, or use a credit card to complete the payment.</p>
+<p>In conclusion, if you are a botany enthusiast or simply looking for high-quality products for your cultivation, Florbook is the ideal platform for you. Thanks to our wide range of products, our virtual library, and our customer service, you can always rely on us to meet your needs and offer you a real online gardening experience.</p>
+</div>
+</div>
+</div></div>
+					</div><!-- #center_column -->
+										</div><!-- .row -->
+				</div><!-- #columns -->
+			</div><!-- .columns-container -->
+							<!-- Footer -->
+				<div class="footer-container">
+					<footer id="footer"  class="container">
+						<div class="row"><!-- Block Newsletter module-->
+<div id="newsletter_block_left" class="block">
+	<h4>Newsletter</h4>
+	<div class="block_content">
+		<form action="//florbook.com/en/" method="post">
+			<div class="form-group" >
+				<input class="inputNew form-control grey newsletter-input" id="newsletter-input" type="text" name="email" size="18" value="Enter your e-mail" />
+				<button type="submit" name="submitNewsletter" class="btn btn-default button button-small">
+					<span>Ok</span>
+				</button>
+				<input type="hidden" name="action" value="0" />
+			</div>
+							
+					</form>
+	</div>
+	
+</div>
+<!-- /Block Newsletter module-->
+<section id="social_block" class="pull-right">
+	<ul>
+					<li class="facebook">
+				<a class="_blank" href="https://www.facebook.com/">
+					<span>Facebook</span>
+				</a>
+			</li>
+						                                        	</ul>
+    <h4>Follow us</h4>
+</section>
+<div class="clearfix"></div>
+
+	<!-- Block CMS module footer -->
+	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
+		<h4>Information</h4>
+		<ul class="toggle-footer">
+																		<li class="item">
+				<a href="https://florbook.com/en/contattaci" title="Contact us">
+					Contact us
+				</a>
+			</li>
+															<li class="item">
+						<a href="https://florbook.com/en/content/3-termini-e-condizioni-di-uso" title="Termini e condizioni d&#039;uso">
+							Termini e condizioni d&#039;uso
+						</a>
+					</li>
+																<li class="item">
+						<a href="https://florbook.com/en/content/4-who-we-are" title="who we are">
+							who we are
+						</a>
+					</li>
+													<li>
+				<a href="https://florbook.com/en/mappa-del-sito" title="Sitemap">
+					Sitemap
+				</a>
+			</li>
+					</ul>
+		
+	</section>
+		<!-- /Block CMS module footer -->
+
+<!-- Block myaccount module -->
+<section class="footer-block col-xs-12 col-sm-4">
+	<h4><a href="https://florbook.com/en/account" title="Manage my customer account" rel="nofollow">My account</a></h4>
+	<div class="block_content toggle-footer">
+		<ul class="bullet">
+			<li><a href="https://florbook.com/en/cronologia-ordini" title="My orders" rel="nofollow">My orders</a></li>
+						<li><a href="https://florbook.com/en/buono-ordine" title="My credit slips" rel="nofollow">My credit slips</a></li>
+			<li><a href="https://florbook.com/en/indirizzi" title="My addresses" rel="nofollow">My addresses</a></li>
+			<li><a href="https://florbook.com/en/dati-personali" title="Manage my personal information" rel="nofollow">My personal info</a></li>
+						
+            		</ul>
+	</div>
+</section>
+<!-- /Block myaccount module -->
+
+<!-- MODULE Block contact infos -->
+<section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
+	<div>
+        <h4>Store Information</h4>
+        <ul class="toggle-footer">
+                        	<li>
+            		<i class="icon-map-marker"></i>Florbook, Monterotondo
+Roma
+Italy            	</li>
+                                                	<li>
+            		<i class="icon-envelope-alt"></i>Email: 
+            		<span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%76%65%6e%64%69%74%61%70%65%70%65%72%6f%6e%63%69%6e%6f@%67%6d%61%69%6c.%63%6f%6d" >&#x76;&#x65;&#x6e;&#x64;&#x69;&#x74;&#x61;&#x70;&#x65;&#x70;&#x65;&#x72;&#x6f;&#x6e;&#x63;&#x69;&#x6e;&#x6f;&#x40;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></span>
+            	</li>
+                    </ul>
+    </div>
+</section>
+<!-- /MODULE Block contact infos -->
+
+				<script type="text/javascript">
+					ga('send', 'pageview');
+				</script>
+
+<script type="text/javascript" > 
+$('iframe').flexy({
+    addcss: true,
+    classname: 'flexy-wrapper',
+    widescreen: true
+
+});
+</script> 
+	
+	
+</div>
+					</footer>
+				</div><!-- #footer -->
+					</div><!-- #page -->
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"c8aba1a210c748cfa34063d6f4324b8e","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body></html>
