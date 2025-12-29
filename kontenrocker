@@ -153,96 +153,88 @@
     <meta name="description"
         content="ROCKERSLOT adalah portal terpercaya menuju situs slot terbaik hari ini. Nikmati pengalaman bermain slot online paling gacor, aman, dan mudah menang hanya di ROCKER SLOT  pilihan utama para pemain slot 2026!">
     <meta name="robots" content="max-image-preview:large">
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org/",
-        "@type": "Product",
-        "name": "ROCKERSLOT Portal Menuju Situs Slot Terbaik Hari Ini",
-        "image": "https://veldrive.com/6qssXvXg/rockerslot-logo.png",
-        "description": "ROCKERSLOT adalah portal terpercaya menuju situs slot terbaik hari ini. Nikmati pengalaman bermain slot online paling gacor, aman, dan mudah menang hanya di ROCKER SLOT  pilihan utama para pemain slot 2026!"
-        "url": "https://bubblenailart.com/about.php",
-        "brand": {
-          "@type": "Brand",
-          "name": "ROCKERSLOT"
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "ROCKERSLOT Portal Menuju Situs Slot Terbaik Hari Ini",
+  "image": "https://veldrive.com/6qssXvXg/rockerslot-logo.png",
+  "description": "ROCKERSLOT adalah portal terpercaya menuju situs slot terbaik hari ini. Nikmati pengalaman bermain slot online paling gacor, aman, dan mudah menang hanya di ROCKER SLOT pilihan utama para pemain slot 2026!",
+  "url": "https://bubblenailart.com/about.php",
+  "brand": {
+    "@type": "Brand",
+    "name": "ROCKERSLOT"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://bubblenailart.com/about.php",
+    "price": 140000,
+    "priceCurrency": "IDR",
+    "priceValidUntil": "2026-12-31",
+    "availability": "https://schema.org/InStock",
+    "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+      "merchantReturnDays": 60,
+      "returnMethod": "https://schema.org/ReturnByMail",
+      "returnFees": "https://schema.org/FreeReturn",
+      "applicableCountry": {
+        "@type": "Country",
+        "name": "ID"
+      }
+    },
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingRate": {
+        "@type": "MonetaryAmount",
+        "value": 140000,
+        "currency": "IDR"
+      },
+      "shippingDestination": {
+        "@type": "DefinedRegion",
+        "addressCountry": {
+          "@type": "Country",
+          "name": "ID"
+        }
+      },
+      "deliveryTime": {
+        "@type": "ShippingDeliveryTime",
+        "cutoffTime": "15:00",
+        "handlingTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 1,
+          "maxValue": 2,
+          "unitCode": "DAY"
         },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://bubblenailart.com/about.php",
-          "price": "140000",
-          "priceCurrency": "IDR",
-          "priceValidUntil": "2026-12-31",
-          "availability": "https://schema.org/InStock",
-          "hasMerchantReturnPolicy": {
-            "@type": "MerchantReturnPolicy",
-            "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://bubblenailart.com/about.php",
-            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
-            "merchantReturnDays": 60,
-            "returnMethod": "https://schema.org/ReturnByMail",
-            "returnFees": "https://schema.org/FreeReturn",
-            "returnPolicyCountry": {
-              "@type": "Country",
-              "name": "ID"
-            },
-            "applicableCountry": {
-              "@type": "Country",
-              "name": "ID"
-            }
-          },
-          "shippingDetails": {
-            "@type": "OfferShippingDetails",
-            "shippingRate": {
-              "@type": "MonetaryAmount",
-              "value": "140000",
-              "currency": "IDR"
-            },
-            "shippingDestination": {
-              "@type": "DefinedRegion",
-              "addressCountry": {
-                "@type": "Country",
-                "name": "ID"
-              }
-            },
-            "deliveryTime": {
-              "@type": "ShippingDeliveryTime",
-              "cutoffTime": "15:00",
-              "handlingTime": {
-                "@type": "QuantitativeValue",
-                "value": "1-2",
-                "unitCode": "DAY",
-                "minValue": 1,
-                "maxValue": 2
-              },
-              "transitTime": {
-                "@type": "QuantitativeValue",
-                "value": "2-3",
-                "unitCode": "DAY",
-                "minValue": 2,
-                "maxValue": 3
-              }
-            }
-          }
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "5",
-          "reviewCount": "17779900"
-        },
-        "review": {
-          "@type": "Review",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5"
-          },
-          "author": {
-            "@type": "Person",
-            "name": "Bahlil"
-          },
-          "reviewBody": "Gila banget situs ini punya Situs ROCKERSLOT dan Sydney terupdate, tidak pernah salah dalam setiap angka"
+        "transitTime": {
+          "@type": "QuantitativeValue",
+          "minValue": 2,
+          "maxValue": 3,
+          "unitCode": "DAY"
         }
       }
-    </script>
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "reviewCount": 17779900
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 5,
+      "bestRating": 5
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Bahlil"
+    },
+    "reviewBody": "Gila banget situs ini punya Situs ROCKERSLOT dan Sydney terupdate, tidak pernah salah dalam setiap angka"
+  }
+}
+</script>
     <script type="application/ld+json" data-rh="true">
       {
         "@context": "http://schema.org",
